@@ -26,3 +26,11 @@ console.log(nomeDoEstudante);
 
 //Em outras linguagens, portanto, você encontrará algo semelhante a:
 String: nomeEstudante = "Helena";
+
+SAIBA MAIS
+
+A diferença entre o comando do…while e o while é justamente o local onde a condição que controla o laço é testada.
+
+No do…while o bloco de comandos é executado pelo menos uma vez de forma obrigatória, independente do resultado da expressão lógica.
+
+No comando while a condição é testada antes do bloco de instruções e, caso a condição seja falsa, a repetição não será executada.

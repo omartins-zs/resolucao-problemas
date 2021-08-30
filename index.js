@@ -1,9 +1,3 @@
-//Com o while:
-let listaDeEstudantes = ["Helena", "Chico", "Mário"];
-let quantidadeDeEstudantes = listaDeEstudantes.length;
-let inicio = 0;
-
-while (inicio < quantidadeDeEstudantes) {
-  console.log(listaDeEstudantes[inicio]);
-  inicio++;
+for (let numero = 1; numero <= 10; numero++) {
+  console.log(numero);
 }
