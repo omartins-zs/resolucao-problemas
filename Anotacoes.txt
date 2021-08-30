@@ -1,0 +1,28 @@
+Por exemplo: eu desejo armazenar o valor "Helena" em uma variável de nome "nomeDoEstudante". Como o valor é formado de caracteres, o tipo da variável deve ser string. No quadro a seguir, temos dois exemplos de declaração de variáveis em duas linguagens de programação diferentes (em preto). O texto em cinza claro são comentários (indicados pelo sinal //) e não fazem parte do comando.
+
+// linguagem X
+var nomeDoEstudante: String = "Helena";
+// var é a declaração de variável
+// nomeDoEstudante é o nome atribuído
+// string é o tipo de dado, pois é formado de caracteres
+// Helena é o valor
+
+//linguagem Y
+$nomedoestudante = 'Helena'
+// $ é a declaração de variável
+// nomedoestudante é o nome atribuído
+// atribui o tipo de acordo com o valor
+// Helena é o valor
+
+
+
+// variável, seu valor pode ser alterado no decorrer do programa
+let nomeEstudante = "Helena";
+console.log(nomeEstudante);
+
+// constante, seu valor não pode ser alterado
+const nomeDoEstudante = "Helena";
+console.log(nomeDoEstudante);
+
+//Em outras linguagens, portanto, você encontrará algo semelhante a:
+String: nomeEstudante = "Helena";

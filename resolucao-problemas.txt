@@ -1,0 +1,6 @@
+
+Requisitos do Sistema
+
+- Guardar uma lista de estudantes com o nome de cada aluno/aluna;
+- Apresentar o nome de cada aluno inserido.
+- Somente poderá ser inserido aluno na lista, caso a quantidade de alunos não tenha ultrapassado 5.
