@@ -1,3 +1,5 @@
-for (let numero = 1; numero <= 10; numero++) {
-  console.log(numero);
-}
+let listaDeEstudantes = ["Helena", "Chico", "Mário"];
+let quantidadeDeEstudantes = listaDeEstudantes.length;
+
+listaDeEstudantes.push("José");
+console.log(listaDeEstudantes);
