@@ -1,9 +1,10 @@
 <h1 align="center">Exemplos Material Digital Lógica De Programação<img align="right" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></h1>
 
-
-### Utilizado para estudos UC8 - LÓGICA DE PROGRAMAÇÃO
-
 <hr>
+
+
+<p class="lead" align="center">Utilizado para estudos UC8 - Lógica de Programação</p>
+
 
 ### Tipos de Estrutura:
 
