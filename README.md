@@ -25,5 +25,6 @@
 
 #### **Utilitários**
 
+- **Icone Do JS no Readme: [Repositorio devicons/devicon](https://github.com/devicons/devicon/tree/master/icons)**
 - **[Visual Studio Code](https://code.visualstudio.com/)**
 - **[Node](https://nodejs.org/en/)**
