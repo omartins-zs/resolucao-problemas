@@ -23,8 +23,16 @@
 
 <hr>
 
+
+ ## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- **[JavaScript](https://www.w3schools.com/w3js/)**
+
+
 #### **Utilitários**
 
 - **Icone Do JS no Readme: [Repositorio devicons/devicon](https://github.com/devicons/devicon/tree/master/icons)**
-- **[Visual Studio Code](https://code.visualstudio.com/)**
+- **Editor: [Visual Studio Code](https://code.visualstudio.com/)**
 - **[Node](https://nodejs.org/en/)**
